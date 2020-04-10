@@ -1,0 +1,23 @@
+{
+  "name": "m1-game-simon-says-drum-now",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhamekasi/m1-game-simon-says-drum-now.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhamekasi/m1-game-simon-says-drum-now/issues"
+  },
+  "homepage": "https://github.com/dhamekasi/m1-game-simon-says-drum-now#readme",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-google": "^0.14.0"
+  }
+}
