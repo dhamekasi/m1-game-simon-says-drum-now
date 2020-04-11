@@ -1,0 +1,6 @@
+// Properties
+
+// currentPattern
+// Methods
+
+// generatePattern
