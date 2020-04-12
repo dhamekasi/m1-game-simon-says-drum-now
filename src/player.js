@@ -1,9 +1,12 @@
-// Properties
+"use strict";
 
-// currentLives
-// lastInput
-// Methods
+class Player {
+  constructor(lives) {
+    this.lives = lives;
+    this.currentPattern = [];
+  }
 
-// receiveInput
+  receiveInput() {}
 
-// loseLife
+  loseLife() {}
+}

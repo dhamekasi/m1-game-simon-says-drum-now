@@ -71,7 +71,6 @@ function createGameOverScreen(level) {
 function startGame() {
   removeScreen();
   createGameScreen();
-
   game = new Game();
   game.gameScreen = gameScreen;
 

@@ -1,6 +1,5 @@
 // Properties
 
-// currentPattern
 // Methods
 
 // generatePattern
